@@ -1,0 +1,8 @@
+{'name': 'admin', 'passwd': '202cb962ac59075b964b07152d234b70', 'level': 0, 'subject': ['english', 'math', 'chinese', 'philosophy', 'pp', 'art', 'history', 'politics'], 'class_grade': ['2018', '1616', '2028', 'oldboy', '1996', '1998'], 'lecturer': ['alex', 'alex', 'taibai', 'eva']}
+{'name': 'djx', 'passwd': '202cb962ac59075b964b07152d234b70', 'level': 1, 'subject': [], 'class_grade': [], 'lecturer': []}
+{'name': 'lsp', 'passwd': '202cb962ac59075b964b07152d234b70', 'level': 1, 'subject': ['pp', 'math'], 'class_grade': ['1996'], 'lecturer': []}
+{'name': 'haha', 'passwd': '202cb962ac59075b964b07152d234b70', 'level': 1, 'subject': [], 'class_grade': [], 'lecturer': []}
+{'name': 'alex', 'passwd': '202cb962ac59075b964b07152d234b70', 'level': 2, 'subject': [], 'class_grade': [], 'lecturer': []}
+{'name': 'taibai', 'passwd': '202cb962ac59075b964b07152d234b70', 'level': 2, 'subject': [], 'class_grade': ['1616', '1996'], 'lecturer': []}
+{'name': 'wujiajia', 'passwd': '202cb962ac59075b964b07152d234b70', 'level': 1, 'subject': [], 'class_grade': ['1616'], 'lecturer': []}
+{'name': 'eva', 'passwd': '202cb962ac59075b964b07152d234b70', 'level': 2, 'subject': [], 'class_grade': ['1996', '1998'], 'lecturer': []}
