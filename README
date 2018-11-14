@@ -37,4 +37,4 @@
 
 管理员用户为admin  密码为 123  加密方式采用mnd5加密
 
-运行命令 ： python  main.py
+运行程序命令 ： python  main.py
